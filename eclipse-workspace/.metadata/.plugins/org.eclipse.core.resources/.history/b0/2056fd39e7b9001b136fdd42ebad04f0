@@ -1,0 +1,13 @@
+// GUI 인터페이스
+// GUI 객체를 생성하는 방법
+// 1. AWT
+// 2. Swing
+
+public class Example1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
